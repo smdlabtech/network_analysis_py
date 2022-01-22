@@ -1,2 +1,2 @@
 # Network Analysis
-Network analysis of co-authorship of scientists working on network theory and experiment. These data are based on the bibliographies of two review articles on networks, SIAM Review 45, 167-256 (2003) and Physics Reports 424, 175-308 (2006), with some additional references added by hand. The network is weighted by nature.
+Analyse de réseau de la co-auteurs des scientifiques travaillant sur la théorie et l'expérience des réseaux. Ces données sont basées sur les bibliographies de deux articles de synthèse sur les réseaux, SIAM Review 45, 167-256 (2003) et Physics Reports 424, 175-308 (2006), avec quelques références supplémentaires ajoutées à la main. Le réseau est pondéré par nature.
