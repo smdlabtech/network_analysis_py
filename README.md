@@ -33,24 +33,3 @@ Cette étude porte sur le **réseau de co-auteurs** des scientifiques travaillan
 🎯 **Étudier la connectivité et la densité du réseau** → Métriques : degré moyen, diamètre du graphe  
 🎯 **Visualiser les communautés et collaborations** → Algorithmes de détection de communautés (**Louvain**, **K-Means**, **Spectral Clustering**)  
 
----
-
-## 📂 Méthodologie & Pipeline d'Analyse  
-
-```bash
-📦 network-analysis-project
- ┣ 📂 data
- ┃ ┣ 📜 coauthors_network.csv        # Données brutes du réseau
- ┃ ┣ 📜 preprocessed_network.gexf    # Fichier pré-traité (Graph format)
- ┣ 📂 notebooks
- ┃ ┣ 📜 1_data_cleaning.ipynb        # Nettoyage des données
- ┃ ┣ 📜 2_network_analysis.ipynb     # Analyse des métriques
- ┃ ┣ 📜 3_visualization.ipynb        # Graphes interactifs avec NetworkX
- ┣ 📂 models
- ┃ ┣ 📜 gnn_model.pth                # Modèle GNN entraîné pour prédiction
- ┣ 📂 results
- ┃ ┣ 📜 network_graph.html           # Visualisation interactive (D3.js)
- ┣ 📜 README.md                      # Documentation
- ┣ 📜 requirements.txt                # Dépendances Python
- ┣ 📜 LICENSE                        # Licence du projet
-```
